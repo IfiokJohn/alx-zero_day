@@ -1,1 +1,1 @@
-My first readme
+Student @Software Engineer
